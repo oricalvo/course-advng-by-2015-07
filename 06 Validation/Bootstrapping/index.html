@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="MyApp">
+<head>
+    <title></title>
+
+    <style>
+        input.ng-touched.ng-invalid {
+            outline:none;
+            border: 2px solid red;
+        }
+
+        .validation-message {
+        }
+    </style>
+</head>
+<body>
+
+    <div ng-controller="HomeCtrl">
+        <form name="form" novalidate>
+            Name:<br />
+            <input required name="name" ng-model="name" />
+            <span class="validation-message">Please specify a message</span>
+
+            <br />
+            <br />
+            E-Mail:<br />
+            <input type="email" name="email" ng-model="email" />
+
+            <br />
+            <br />
+            <button ng-click="save()">Save</button>
+        </form>
+    </div>
+
+    <script src="angular.js"></script>
+    <script src="MyApp.js"></script>
+    <script src="HomeCtrl.js"></script>
+</body>
+</html>

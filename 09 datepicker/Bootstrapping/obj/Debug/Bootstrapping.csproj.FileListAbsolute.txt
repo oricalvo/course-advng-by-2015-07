@@ -1,0 +1,30 @@
+C:\BY\Samples\Bootstrapping\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples\Bootstrapping\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples\Bootstrapping\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples\Bootstrapping\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples\Bootstrapping\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples\Bootstrapping\Bootstrapping\obj\Debug\Bootstrapping.pdb
+C:\BY\Samples@class\06 Validation\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples@class\06 Validation\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples@class\06 Validation\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples@class\06 Validation\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples@class\06 Validation\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples@class\06 Validation\Bootstrapping\obj\Debug\Bootstrapping.pdb
+C:\BY\Samples@class\07 Directive is instantiated even when not being used\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples@class\07 Directive is instantiated even when not being used\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples@class\07 Directive is instantiated even when not being used\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples@class\07 Directive is instantiated even when not being used\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples@class\07 Directive is instantiated even when not being used\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples@class\07 Directive is instantiated even when not being used\Bootstrapping\obj\Debug\Bootstrapping.pdb
+C:\BY\Samples@class\08 Compile, controller, preLink, postLink\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples@class\08 Compile, controller, preLink, postLink\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples@class\08 Compile, controller, preLink, postLink\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples@class\08 Compile, controller, preLink, postLink\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples@class\08 Compile, controller, preLink, postLink\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples@class\08 Compile, controller, preLink, postLink\Bootstrapping\obj\Debug\Bootstrapping.pdb
+C:\BY\Samples@class\09 datepicker\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples@class\09 datepicker\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples@class\09 datepicker\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples@class\09 datepicker\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples@class\09 datepicker\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples@class\09 datepicker\Bootstrapping\obj\Debug\Bootstrapping.pdb

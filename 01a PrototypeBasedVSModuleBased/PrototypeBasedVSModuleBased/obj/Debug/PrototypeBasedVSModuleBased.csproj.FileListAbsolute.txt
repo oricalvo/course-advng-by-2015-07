@@ -1,0 +1,6 @@
+C:\BY\Samples\PrototypeBasedVSModuleBased\PrototypeBasedVSModuleBased\bin\PrototypeBasedVSModuleBased.dll.config
+C:\BY\Samples\PrototypeBasedVSModuleBased\PrototypeBasedVSModuleBased\bin\PrototypeBasedVSModuleBased.dll
+C:\BY\Samples\PrototypeBasedVSModuleBased\PrototypeBasedVSModuleBased\bin\PrototypeBasedVSModuleBased.pdb
+C:\BY\Samples\PrototypeBasedVSModuleBased\PrototypeBasedVSModuleBased\obj\Debug\PrototypeBasedVSModuleBased.csprojResolveAssemblyReference.cache
+C:\BY\Samples\PrototypeBasedVSModuleBased\PrototypeBasedVSModuleBased\obj\Debug\PrototypeBasedVSModuleBased.dll
+C:\BY\Samples\PrototypeBasedVSModuleBased\PrototypeBasedVSModuleBased\obj\Debug\PrototypeBasedVSModuleBased.pdb

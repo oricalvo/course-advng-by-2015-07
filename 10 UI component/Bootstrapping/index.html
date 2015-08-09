@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="MyApp">
+<head>
+    <title></title>
+
+    <link href="jquery-ui.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="placeholder"></div>
+
+    <div ng-controller="HomeCtrl">
+        <clock on-tick="onTick(time)" name="clock1"></clock>
+
+        <clock format="'ss:HH'" name="clock2"></clock>
+
+        <button ng-click="clock1.stop()">Stop</button>
+
+        <input ng-model="format" />
+    </div>
+
+    <script src="jquery.js"></script>
+    <script src="moment.js"></script>
+    <script src="jquery-ui.js"></script>
+    <script src="angular.js"></script>
+    <script src="MyApp.js"></script>
+    <script src="ClockComponent.js"></script>
+    <script src="HomeCtrl.js"></script>
+</body>
+</html>

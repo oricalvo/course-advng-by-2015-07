@@ -1,0 +1,24 @@
+C:\BY\Samples\Bootstrapping\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples\Bootstrapping\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples\Bootstrapping\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples\Bootstrapping\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples\Bootstrapping\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples\Bootstrapping\Bootstrapping\obj\Debug\Bootstrapping.pdb
+C:\BY\Samples\02 Lazy Service\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples\02 Lazy Service\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples\02 Lazy Service\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples\02 Lazy Service\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples\02 Lazy Service\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples\02 Lazy Service\Bootstrapping\obj\Debug\Bootstrapping.pdb
+C:\BY\Samples\03 value vs. service vs. factory\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples\03 value vs. service vs. factory\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples\03 value vs. service vs. factory\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples\03 value vs. service vs. factory\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples\03 value vs. service vs. factory\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples\03 value vs. service vs. factory\Bootstrapping\obj\Debug\Bootstrapping.pdb
+C:\BY\Samples\04 Async cross different layers\Bootstrapping\bin\Bootstrapping.dll.config
+C:\BY\Samples\04 Async cross different layers\Bootstrapping\bin\Bootstrapping.dll
+C:\BY\Samples\04 Async cross different layers\Bootstrapping\bin\Bootstrapping.pdb
+C:\BY\Samples\04 Async cross different layers\Bootstrapping\obj\Debug\Bootstrapping.csprojResolveAssemblyReference.cache
+C:\BY\Samples\04 Async cross different layers\Bootstrapping\obj\Debug\Bootstrapping.dll
+C:\BY\Samples\04 Async cross different layers\Bootstrapping\obj\Debug\Bootstrapping.pdb

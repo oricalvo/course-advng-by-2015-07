@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="MyApp">
+<head>
+    <title></title>
+
+    <style>
+        [ng-cloak] {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div ng-controller="HomeCtrl">
+
+        <!--<div ng-controller="ChildCtrl">
+            {{ctrl.data}}
+        </div>-->
+
+        <ul ng-cloak>
+            <li ng-repeat="contact in ctrl.contacts">
+                <span>{{contact.name}}</span>
+            </li>
+        </ul>
+
+        <div ng-if="showLazy" ng-cloak>
+            <div ng-controller="LazyController">
+                <h1>Very very very long title</h1>
+                <span>{{title}}</span>
+            </div>
+        </div>
+
+        <button ng-click="load()">Load</button>
+    </div>
+
+    <script src="require.js"></script>
+    <script src="angular.js"></script>
+    <script src="MyApp.js"></script>
+    <script src="HomeCtrl.js"></script>
+</body>
+</html>
